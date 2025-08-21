@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  schedule: # Se ejecuta cada 24 horas
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -14,5 +14,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: edslogia
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories, metadata
           config_timezone: America/Bogota
