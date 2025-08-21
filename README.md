@@ -45,7 +45,11 @@
 ---
 
 ### 🌟 Proyecto destacado
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edslogia&repo=Bootstrap_vs_Zombies&theme=radical&v=1)](https://github.com/edslogia/Bootstrap_vs_Zombies)
+<p align="center">
+  <a href="https://github.com/edslogia/Bootstrap_vs_Zombies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=edslogia&repo=Bootstrap_vs_Zombies&theme=radical&v=3" width="100%"/>
+  </a>
+</p>
 
 ---
 
