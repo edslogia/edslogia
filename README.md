@@ -63,8 +63,9 @@
 
 ---
 
-### 🐍 Actividad reciente
-![Snake animation](https://github.com/edslogia/edslogia/blob/output/github-contribution-grid-snake.svg)
+### 📊 Actividad en GitHub
+![Metrics](https://github.com/edslogia/edslogia/blob/main/github-metrics.svg)
+
 
 ---
 
