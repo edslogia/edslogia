@@ -67,11 +67,5 @@
 
 ---
 
-### 📊 Actividad en GitHub
-![Metrics](https://github.com/edslogia/edslogia/blob/main/github-metrics.svg)
-
-
----
-
 ### 👀 Visitas
 ![Profile views](https://komarev.com/ghpvc/?username=edslogia&label=Profile%20views&color=0e75b6&style=flat)
