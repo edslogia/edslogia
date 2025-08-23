@@ -5,20 +5,25 @@
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en **Full-Stack PLC-DC Management System**  
-- 🌱 Aprendiendo **DevOps y CI/CD**  
-- 🎮 Me gusta crear proyectos que mezclen **programación + creatividad**  
-- ⚡ Fun fact: No solo programo, también diseño y fabrico mis propios PCBs 🔌
-                Cuando no estoy escribiendo código, estoy imprimiendo en 3D o modelando piezas 🚀
-                He viajado para conocer culturas... y sus cervezas locales 🍺
-
+```javascript
+const developer = {
+  currentlyWorkingOn: "Full-Stack PLC-DC Management System",
+  learning: ["DevOps", "CI/CD"],
+  interests: ["Crear proyectos que mezclen programación y creatividad"],
+  funFact: "No solo programo, también diseño y fabrico mis propios PCBs 🔌",
+  hobbies: ["Imprimir en 3D", "Modelar piezas 🚀", "Viajar para conocer culturas y sus cervezas locales 🍺"]
+};
+```
 ---
 
 ### 📬 Conecta conmigo
 <p align="left">
-<a href="https://linkedin.com/in/edwin-gonzalez-c" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/edwin-gonzalez-c" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
+<p align="left">
+  <a href="mailto:esgo.edwin@gmail.com">Contáctame por correo</a>
 </p>
 
 ---
