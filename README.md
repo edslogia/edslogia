@@ -1,19 +1,18 @@
 <!-- Banner -->
 <h1 align="center">👋 Hola, soy Edwin González</h1>
-<h3 align="center">💻 Full Stack Developer | 🌎 Colombia</h3>
+<h3 align="center">💻 Full Stack Developer & Systems Engineer | 🌎 Colombia</h3>
 
 ---
 
 ### 🚀 Sobre mí
 ```javascript
 const developer = {
-  currentlyWorkingOn: "Full-Stack PLC-DC Management System",
-  learning: ["DevOps", "CI/CD"],
-  interests: ["Crear proyectos que mezclen programación y creatividad"],
-  funFact: "No solo programo, también diseño y fabrico mis propios PCBs 🔌",
-  hobbies: ["Imprimir en 3D", "Modelar piezas 🚀", "Viajar para conocer culturas y sus cervezas locales 🍺"]
+  coreCompetencies: ["Full-Stack Architecture", "Mission-Critical Systems", "Embedded & IoT Integration"],
+  currentFocus: "MDC Playground & Enterprise CMS Architecture",
+  learning: ["Advanced DevOps Pipelines", "Cloud Native Infrastructure", "Asynchronous Workers Optimization"],
+  background: "15 years in electronic security, industrial automation, and hardware engineering (PCBs & 3D prototyping) 🔌",
+  interests: ["Architecting robust backend services", "Hardening API contracts", "Exploring local craft beers during travels 🍺"]
 };
-```
 ---
 
 ### 📬 Conecta conmigo
