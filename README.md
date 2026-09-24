@@ -1,20 +1,22 @@
-<!-- Banner -->
+<!-- Borrador del README del perfil de GitHub. Cópialo al repositorio edslogia/edslogia. -->
+
 <h1 align="center">👋 Hola, soy Edwin González</h1>
-<h3 align="center">💻 Full Stack Developer & Systems Engineer | 🌎 Colombia</h3>
+<h3 align="center">Software Engineer · Plataformas internas, publicación web e IA aplicada</h3>
+<h4 align="center">🌎 Colombia</h4>
 
 ---
 
 ### 🚀 Sobre mí
 
-```javascript
-const developer = {
-  coreCompetencies: ["Full-Stack Architecture", "Mission-Critical Systems", "Embedded & IoT Integration"],
-  currentFocus: "MDC Playground & Enterprise CMS Architecture",
-  learning: ["Advanced DevOps Pipelines", "Cloud Native Infrastructure", "Asynchronous Workers Optimization"],
-  background: "15 years in electronic security, industrial automation, and hardware engineering (PCBs & 3D prototyping) 🔌",
-  interests: ["Architecting robust backend services", "Hardening API contracts", "Exploring local craft beers during travels 🍺"]
-};
-```
+Diseño sistemas que humanos y agentes operan juntos: plataformas internas, publicación web e IA aplicada.
+
+El contenido vive en YAML y Jinja, entra a un pipeline de build y se opera desde un backoffice en React. Del otro lado: APIs en Flask, PostgreSQL, Redis y Celery; build incremental, GCS y auto-deploy con Playwright.
+
+La capa para agentes va en el mismo sistema. Generación con LangGraph, un servidor MCP para Cursor y Claude, y skills para que el agente use los mismos contratos que el equipo.
+
+Vengo de telecomunicaciones: hardware, software e IA en IoT en tiempo real. Sigo mirando el sistema de punta a punta, del sensor o del contenido hasta producción, con el IDE como otro operador.
+
+Me importa la automatización, los contratos claros y esa visión completa, más que la capa en la que se teclea.
 
 ---
 
@@ -22,7 +24,7 @@ const developer = {
 
 <p align="left">
   <a href="https://linkedin.com/in/edwin-gonzalez-c" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 <p align="left">
@@ -34,20 +36,18 @@ const developer = {
 ### 🛠️ Lenguajes y Herramientas
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </p>
 
